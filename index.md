@@ -4,4 +4,4 @@
 <h2> Week One </h2>
 
 <p> This week we selected a project and settled on a smart home idea, and created a proposal. </p> 
-![] (https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/ProposalAndrewLiauba2.pdf)
+[Link](www.google.ca)
