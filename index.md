@@ -2,7 +2,5 @@
 
 
 # Week One
-[Link](www.google.ca)
-
-<p> This week we selected a project and settled on a smart home idea, and created a proposal. </p> 
+This week we selected a project and settled on a smart home idea, and created a proposal.
 [Link](www.google.ca)
