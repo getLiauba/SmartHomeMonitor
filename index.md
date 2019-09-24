@@ -3,4 +3,4 @@
 
 # Week One
 This week we selected a project and settled on a smart home idea, and created a proposal.
-[Link](www.google.ca)
+[proposal](www.google.ca)
