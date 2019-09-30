@@ -26,3 +26,6 @@
 
 [Proof Of Purchase](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/purchase.png)
 
+<h2> Week Five </h2>
+
+<p>This week we set up our Broadcom development platform's(BDP) SD card and using VNC viewer to interact with the BDP. In this case I will be using the Raspberry Pi 3 B+ edition </p>
