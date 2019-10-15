@@ -2,13 +2,12 @@
 
 <h2> Week Six </h2>
 
-<p> This week I designed my PCB board in fritzing. I also created a schematic and breadboard mockup</p>
+<p> This week I designed my PCB board in fritzing. I also created a schematic and breadboard mockup (uploaded october 14th)</p>
 
 [Fritzing File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Electronics/HC-SR501-Pi.fzz)<br />
 [Breadboard design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg)<br />
 [Schematic design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_schem.jpg)<br />
 [PCB design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb.jpg)<br />
-
 
 
 
