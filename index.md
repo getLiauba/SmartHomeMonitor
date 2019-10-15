@@ -4,6 +4,10 @@
 
 <p> This week I designed my PCB board in fritzing. I also created a schematic and breadboard mockup</p>
 
+[Fritzing File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Electronics/HC-SR501-Pi.fzz)
+
+
+
 
 <h2> Week Five </h2>
 
