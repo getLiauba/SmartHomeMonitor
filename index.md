@@ -5,6 +5,10 @@
 <p> This week I designed my PCB board in fritzing. I also created a schematic and breadboard mockup</p>
 
 [Fritzing File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Electronics/HC-SR501-Pi.fzz)
+[Breadboard design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg)
+[Schematic design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_schem.jpg)
+[PCB design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb.jpg)
+
 
 
 
