@@ -1,6 +1,13 @@
 # Smart Home Monitor (HC-SR501 PIR)
 
-<h2> Week Six </h2>
+<h2> Week Eight </h2>
+
+<p> This week the Breadboard milestone was due. Using the raspberry Pi and HC-SR501 sensor, I managed to write a C program using the wiring Pi Libaray to detect motion and turn on an LED when motion was detected <p>
+
+
+
+
+<h2> Week Seven </h2>
 
 <p> This week I designed my PCB board in fritzing. I also created a schematic and breadboard mockup (uploaded october 14th)</p>
 
