@@ -15,7 +15,7 @@
 
 <h3> Program Output </h3>
 
-<img src="https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Output.png" style="height:500;width:700;"/>
+<img src="https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/IMG_2449.jpg?raw=true" style="height:500;width:700;"/>
 <br>
 
 <h2> Week Seven </h2>
