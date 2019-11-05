@@ -10,14 +10,12 @@
 [C program](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Software/sensor.c)<br />
 
 ![breadboard](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/IMG_2449.jpg?raw=true)<br />
-<img src="https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/IMG_2449.jpg" style="height:500;width:700;"/>
 <br>
 
 
 <h3> Program Output </h3>
+![output](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Output.png?raw=true)<br />
 
-<img src="https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/IMG_2449.jpg?raw=true" style="height:500;width:700;"/>
-<br>
 
 <h2> Week Seven </h2>
 
