@@ -25,7 +25,7 @@
 [Fritzing File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Electronics/HC-SR501-Pi.fzz)<br />
 [Fritzing File With Header Pins](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Electronics/HC-SR501-Pi_HeaderDesign.fzz)<br />
 
-[Breadboard design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg)<br />
+![Breadboard design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg)<br />
 [Schematic design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_schem.jpg)<br />
 [PCB design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb.jpg)<br />
 [PCB Version 2 design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb_V2.png)<br />
