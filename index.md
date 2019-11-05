@@ -9,6 +9,7 @@
   
 [C program](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Software/sensor.c)<br />
 
+![breadboard](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/IMG_2449.jpg?raw=true)<br />
 <img src="https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/IMG_2449.jpg" style="height:500;width:700;"/>
 <br>
 
@@ -26,9 +27,9 @@
 [Fritzing File With Header Pins](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Electronics/HC-SR501-Pi_HeaderDesign.fzz)<br />
 
 ![Breadboard design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg)<br />
-[Schematic design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_schem.jpg)<br />
-[PCB design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb.jpg)<br />
-[PCB Version 2 design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb_V2.png)<br />
+![Schematic design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_schem.jpg)<br />
+![PCB design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb.jpg)<br />
+![PCB Version 2 design](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_pcb_V2.png)<br />
 
 
 
@@ -41,7 +42,7 @@
 
 <p>This week my group and I purchased our assigned materials and equipment and was required to show proof of purchase. The only euipment I needed to purchase was the HC-SR501 Pyroelectric Infrared Sensor This sensor is used to detect moving objects </p>
 
-[Proof Of Purchase](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/purchase.png)
+![Proof Of Purchase](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/purchase.png)
 
 <h2> Week Three </h2>
 
