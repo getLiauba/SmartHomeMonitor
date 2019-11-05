@@ -47,13 +47,13 @@
 
 <p> This week my team and I discussed the parts and materials we need in order to complete our project. After this discussion I then created a Project </p>
 
-[Project Budget](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/Budget.pdf)
+![Project Budget](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/Budget.pdf)
 
 <h2> Week Two </h2>
 
 <p>This second week I created a Gantt Chart to outline all the tasks to be completed week by week </p>
 
-[Gantt chart](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/HardwareSchedule.pdf)
+![Gantt chart](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/HardwareSchedule.pdf)
 
 
 <h2> Week One </h2>
