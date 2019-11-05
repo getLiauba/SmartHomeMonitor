@@ -14,6 +14,7 @@
 
 
 <h3> Program Output </h3>
+
 ![output](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Output.png?raw=true)<br />
 
 
