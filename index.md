@@ -2,7 +2,17 @@
 
 <h2> Week Nine </h2>
 
-<p> This week (week 9) was the PCB soldering milestone. The pcb was soldered before coming to class but during testing the via's with the multimeter the resistance was shown as "overloading" meaning there was not a proper connection. After seeing this I soldered the via's again and tested them once again and got a reading of about 10 - 15 ohms for each. Currently my progress is on track, and finacially I am on budget. The next step is to connect the PCB to the raspberry Pi (Broadcom development platform) and test if it works the same way when connected to the breadboard <p>
+<p> This week (week 9) was the PCB soldering milestone. The pcb was soldered before coming to class but during testing the via's with the multimeter the resistance was shown as "overloading" meaning there was not a proper connection. After seeing this I soldered the via's again and tested them once again and got a reading of about 10 - 15 ohms for each. Currently my progress is on track, and finacially I am on budget. The next step is to connect the PCB to the raspberry Pi (Broadcom development platform) and test if it works the same way when connected to the breadboard <p> <br>
+  
+  <h4>PCB Bottom </h4>
+  
+![PCB_BOTTOM](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/pcb1.JPG?raw=true)
+<br>
+
+<h4>PCB Top </h4>
+
+![PCB_TOP](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/pcb2.JPG?raw=true)
+<br>
 
 <h2> Week Eight </h2>
 
