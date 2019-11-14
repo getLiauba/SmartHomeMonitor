@@ -1,5 +1,13 @@
 # Smart Home Monitor (HC-SR501 PIR)
 
+<h2> Week Ten </h2>
+
+<p> This week was the PCB power up milestone. The PCB and senor preformed as expected. Finanically I am on track as well as my progress. The next step is to design my enclosure to fit my raspberry pi and senors on top 
+
+<p>
+
+
+
 <h2> Week Nine </h2>
 
 <p> This week (week 9) was the PCB soldering milestone. The pcb was soldered before coming to class but during testing the via's with the multimeter the resistance was shown as "overloading" meaning there was not a proper connection. After seeing this I soldered the via's again and tested them once again and got a reading of about 10 - 15 ohms for each. Currently my progress is on track, and finacially I am on budget. The next step is to connect the PCB to the raspberry Pi (Broadcom development platform) and test if it works the same way when connected to the breadboard <p> <br>
