@@ -3,9 +3,16 @@
 
 <h2> Week Eleven </h2>
 
+
 ![Enclousure](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/enclosure.jpg?raw=true)
 
-![Enclousure](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/enclos2.jpg?raw=true)
+![Enclousure2](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/enclos2.jpg?raw=true)
+
+
+<p> Below is the CDR file used to laser cut an enclosure that fits the raspberry Pi and PCB board<p>
+
+
+![EnclousureDesignCDR](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/EnclosureDeign.PNG?raw=true)
 
 
 
