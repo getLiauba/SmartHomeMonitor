@@ -3,6 +3,9 @@
 
 <h2> Week Eleven </h2>
 
+<p> This week the enclosure for our broadcom development board was due. below are images of the enclosure with all ports accessible
+and the CDR file used to cut it<p>
+
 
 ![Enclousure](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/enclosure.jpg?raw=true)
 
