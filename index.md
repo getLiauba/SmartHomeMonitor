@@ -1,5 +1,14 @@
 # Smart Home Monitor (HC-SR501 PIR)
 
+
+<h2> Week Eleven </h2>
+
+![Enclousure](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/enclosure.jpg?raw=true)
+
+![Enclousure](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/enclos2.jpg?raw=true)
+
+
+
 <h2> Week Ten </h2>
 
 <p> This week was the PCB power up milestone. The PCB and senor preformed as expected. Finanically I am on track as well as my progress. The next step is to design my enclosure to fit my raspberry pi and senors on top 
