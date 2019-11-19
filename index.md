@@ -14,6 +14,8 @@
 
 ![EnclousureDesignCDR](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/EnclosureDeign.PNG?raw=true)
 
+[Download CDR file here](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Mechanical/RaspberryPiEnclosure.cdr)<br />
+
 
 
 <h2> Week Ten </h2>
