@@ -1,5 +1,11 @@
 # Smart Home Monitor (HC-SR501 PIR)
 
+<h2> Week Twelve </h2>
+
+<p>This week the final presentations start. Mine is scedualed for December 3rd <p>
+  
+[Powerpoint Presentation](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Documentation/Hardware%20Powerpoint.pptx?raw=true)<br />
+
 
 <h2> Week Eleven </h2>
 
