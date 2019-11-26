@@ -1,7 +1,7 @@
 # SmartHomeMonitor
 
 ## Table of Contents
-* [Introduction](Introduction)
+* [Introduction](#Introduction)
 
 ## <a name="Introduction">Introduction</a>
 
