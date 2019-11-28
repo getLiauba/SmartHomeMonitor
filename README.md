@@ -24,6 +24,19 @@ https://www.mpja.com/download/31227sc.pdf
 
 ## <a name="Materials/Budget">Materials/Budget</a>
 
+<p>This project will require alot of materials and is reccomended to be purchased at once so that you can have all your materials together and ready to complete the project in a weekend.
+  
+RaspberryPi (These instructions will be using the B+ modle although new versions should work as well) <br>
+HC-SR501 $10 (Reccomended to get a multi-pack the first one I used was broken)<br>
+Solder<br>
+Breadboard <br>
+LED<br>
+330 Ohm resistor <br>
+Jumpper cables <br>
+Safty goggles <br>
+
+
+</p>
 
 
 
