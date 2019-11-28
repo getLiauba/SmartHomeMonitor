@@ -36,7 +36,10 @@ Jumpper cables <br>
 Safty goggles <br>
 Soldering Iron <br>
 USB to Ethernet adapter (This may not be needed if your computer/ Laptop as a Ethernet port) <br> 
-Ethernet cable
+Ethernet cable <br>
+3 Pin header  <br>
+6 Pin header  <br>
+
 
 </p>
 
