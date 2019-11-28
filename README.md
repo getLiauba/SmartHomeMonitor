@@ -34,7 +34,9 @@ LED<br>
 330 Ohm resistor <br>
 Jumpper cables <br>
 Safty goggles <br>
-
+Soldering Iron <br>
+USB to Ethernet adapter (This may not be needed if your computer/ Laptop as a Ethernet port) <br> 
+Ethernet cable
 
 </p>
 
@@ -43,7 +45,14 @@ Safty goggles <br>
 
 ## <a name="Time_Commitment">Time Commitment</a>
 
+<p> Your total time commitment for this project should be no more than a weekend approximentally(8 hours) assuming you have all your materials and tools purchased and shiped  <br> 
 
+Mechanical Assembly (1 hour)
+Setting up raspberry Pi (1 hour)
+Breadboarding (1 hour)
+Soldering PCB (1.5 hours)
+Testing PCB (1 hour)
+</p>
 
 
 ## <a name="Mechanical_Assembly">Mechanical Assembly</a>
