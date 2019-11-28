@@ -50,11 +50,11 @@ Ethernet cable <br>
 
 <p> Your total time commitment for this project should be no more than a weekend approximentally(8 hours) assuming you have all your materials and tools purchased and shiped  <br> 
 
-Mechanical Assembly (1 hour)
-Setting up raspberry Pi (1 hour)
-Breadboarding (1 hour)
-Soldering PCB (1.5 hours)
-Testing PCB (1 hour)
+Mechanical Assembly (1 hour)  <br>
+Setting up raspberry Pi (1 hour)  <br>
+Breadboarding (1 hour)  <br>
+Soldering PCB (1.5 hours)  <br>
+Testing PCB (1 hour)  <br>
 </p>
 
 
