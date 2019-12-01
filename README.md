@@ -72,8 +72,11 @@ connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the groun
 ![Breadboard](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg?raw=true)<br />
 
 
-
 ## <a name="PCB_Soldering">PCB / Soldering</a>
+</br>
+
+[PCB Files](https://github.com/getLiauba/SmartHomeMonitor/tree/master/Electronics/PCB)
+<p>If you havent yet got your PCB made you can download the files above to have it created</p>
 
 
 
