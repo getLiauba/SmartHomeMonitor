@@ -11,10 +11,6 @@
 * [Production Testing](#Production_Testing)
 
 
-
-
-
-
 ## <a name="Introduction">Introduction</a>
 
 <p>These build instructions will help you use the HC-SR501 sensor along with the raspberry pi in order to be able to detect motion. The sensor has 3 pins: VCC, GND, OUT. The operational voltage for the sensor is between 5 and 20 volts with an output voltage of 3.3V when motion is detected and 0V when no motion is detected. For more details about this sensor you can check out the link below </p> 
@@ -40,9 +36,7 @@ Ethernet cable <br>
 3 Pin header  <br>
 6 Pin header  <br>
 
-
 </p>
-
 
 
 
@@ -59,6 +53,12 @@ Testing PCB (1 hour)  <br>
 
 
 ## <a name="Mechanical_Assembly">Mechanical Assembly</a>
+
+<p>To start the mechanical assembly part of the project ,begin by getting you HC-SR501 sensor, breadboard, wire and raspberry PI B+, and follow the steps below to connect the ciruit, there is also an attached image of how the wiring should look on the raspberry Pi and the breadbaord.<br>
+</p>
+
+
+![Breadboard](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg?raw=true)<br />
 
 
 
