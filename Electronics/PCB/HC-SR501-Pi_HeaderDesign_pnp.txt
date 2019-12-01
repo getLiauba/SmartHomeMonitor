@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=HC-SR501-Pi_HeaderDesign
+*Date=10:18:39
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;26.185;-12.8864;0;Bottom;Via3
+2;;;16.025;-7.80637;0;Bottom;Via5
+3;;;18.565;-17.9664;0;Bottom;Via2
+4;;;10.945;-10.3464;0;Bottom;Via1
+5;;THT;38.8849;-11.6165;0;Bottom;J1
+6;;;9.14195;-21.2501;0;Top;TXT2
+7;220;THT;26.1849;-7.80646;180;Bottom;R1
+8;;3 mm [THT];10.945;-3.41748;0;Bottom;LED1
+9;;molex-1x3_lock;5.99186;-12.8865;90;Bottom;Header 
+10;;;28.8491;-21.2959;0;Top;TXT1
+11;;;23.645;-2.72637;0;Bottom;Via4
