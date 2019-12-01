@@ -57,6 +57,13 @@ Testing PCB (1 hour)  <br>
 <p>To start the mechanical assembly part of the project ,begin by getting you HC-SR501 sensor, breadboard, wire and raspberry PI B+, and follow the steps below to connect the ciruit, there is also an attached image of how the wiring should look on the raspberry Pi and the breadbaord as well as the raspberry pi pin numbers(Image provided by www.raspberry-pi-geek.com) .<br>
 </p>
 
+<p> 1. First, connect raspberry Pi pin 4 to the positive rail on your breadboard (Pin 4 provides the cirucit with 5V) and
+connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the ground pin> </br>
+  2. Secondly, connect a wire from the positive rail on the breadbaord to VCC and another wire from the negative/ ground rail to the gnd pin on the HC-SR501 sensor. </br>
+  3. Third, connect a wire from pin 8 on the Raspberry Pi to the OUT pin the the HC-SR501 sensor.
+  4. Lastly, connect a wire from pin 10 on the Raspberry Pi to a 330 ohm resistor, and conenct that resistor to and LED, and from the other pin on the LED connect that pin to ground. </br>
+</p>
+
 
 
 
