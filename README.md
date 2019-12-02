@@ -74,7 +74,7 @@ connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the groun
 
 ## <a name="PCB_Soldering">PCB / Soldering</a>
 
-<br/>
+
 
 [PCB Files](https://github.com/getLiauba/SmartHomeMonitor/tree/master/Electronics/PCB)
 
