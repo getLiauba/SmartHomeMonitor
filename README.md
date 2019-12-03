@@ -42,7 +42,7 @@ Ethernet cable <br>
 
 ## <a name="Time_Commitment">Time Commitment</a>
 
-<p> Your total time commitment for this project should be no more than a weekend approximentally(8 hours) assuming you have all your materials and tools purchased and shiped  <br> 
+<p> Your total time commitment for this project should be no more than a weekend approximentally(X hours) assuming you have all your materials and tools purchased and shiped  <br> 
 
 Mechanical Assembly (1 hour)  <br>
 Setting up raspberry Pi (1 hour)  <br>
