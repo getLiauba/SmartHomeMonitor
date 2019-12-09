@@ -111,9 +111,21 @@ Follow the numbered list until you reach "Power up".
 
 Before powering up the PCB and connecting it to the Raspberry Pi. you **MUST** test your PCB to ensure everything is connected and soldered correctly, as well as no shorts between power and ground. This will ensure you do not ruin you Raspberry Pi.
 
-**1** To being testing insert a wire into the 3 pin header labeled 1 on the PCB top image below and another wire into 6 pin header labeled 1 below. Using a DMM connect the red wire to one of the wires you ahve inserted and the black dmm wire to the other wire you inserted. Read the reisitance and if a small reisitnace is read on the DMM proceed to step 2. If not re-solder and try the test again.
+This first test ensures voltage will reach the connected sensor.
+**1** To being testing insert a wire into the 3 pin header labeled 1 on the "PCB Top" image below and another wire into 6 pin header labeled 6 below on the "PCB Bottom" image. Using a DMM connect the red wire to one of the wires you have inserted and the black dmm wire to the other wire you inserted. Read the reisitance and if a small reisitnace is read on the DMM proceed to step 2. If not re-solder and try the test again.
 
-**2**
+This second test ensures that there are no shorts going from power to ground.
+**2** Remove the wires from step 1, and add a jumper wire from header 1 going to 2 on the PCB top image. Next connect the red wire from the dmm to 5 and the black wire from the dmm to 6 labeled on the 6 pin header on the "PCB Bottom" image. Ensure that the dmm is reading a small resistance move to step 3, if not attempt to solder again then test again.
+
+This thrid test ensures that the LED and resistor are properly soldered.
+**3** Remove all the wires from the pericous step, and insert 1 wire into the 6 pin header labeled 1 and insert another wire into the 6 pin header labeled 2. Using the dmm connect 1 of the cables to the first wire and the second cable to the second wire, ensure that the dmm is reading a small reisitance. If so your testing is complete and you can connect your sensor into the 3 pin header and connect your PCB to your Raspberry Pi, if not attempt to solder again then test again.
+
+After sucessfully completing these test you are ready to connect you sensor to your PCB and you PBC to you Raspberry Pi.
+
+[Sensor Code](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Software/sensor.c)
+
+In order to see the sensor work, you need to write your own code on the raspberry Pi or download the code I provided, and using a tool such as winSCP(windows) or Cyberduck(mac), transfer this file to the Pi. compile the code using "gcc -o name name.c"
+and to run it use ./name
 
 
 **PCB Top**
