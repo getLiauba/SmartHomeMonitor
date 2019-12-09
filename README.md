@@ -146,21 +146,46 @@ By opening network preferences and finding you PI's IP address you should be abl
 
 **3 -This unit test will test sensor connected to the raspberry Pi.**
 
-**1.** First, connect raspberry Pi pin 4 to the positive rail on your breadboard (Pin 4 provides the cirucit with 5V) and
+**3.1** First, connect raspberry Pi pin 4 to the positive rail on your breadboard (Pin 4 provides the cirucit with 5V) and
 connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the ground pin> </br>
-**2.** Secondly, connect a wire from the positive rail on the breadbaord to VCC and another wire from the negative/ ground rail to the gnd pin on the HC-SR501 sensor. </br>
-**3.** Third, connect a wire from pin 8 on the Raspberry Pi to the OUT pin the the HC-SR501 sensor.
-**4.** Lastly, connect a wire from pin 10 on the Raspberry Pi to a 330 ohm resistor, and conenct that resistor to and LED, and from the other pin on the LED connect that pin to ground. </br>
+**3.2.** Secondly, connect a wire from the positive rail on the breadbaord to VCC and another wire from the negative/ ground rail to the gnd pin on the HC-SR501 sensor. </br>
+**3.3.** Third, connect a wire from pin 8 on the Raspberry Pi to the OUT pin the the HC-SR501 sensor.
+**3.4.** Lastly, connect a wire from pin 10 on the Raspberry Pi to a 330 ohm resistor, and conenct that resistor to and LED, and from the other pin on the LED connect that pin to ground. </br>
 
 ![Breadboard](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg?raw=true)<br />
 
+**4 -This unit test will test the conenction of the PCB. This test is documented in the powerup section of the blog**
+
+**This first test ensures voltage will reach the connected sensor.**
+
+**1** To being testing insert a wire into the 3 pin header labeled 1 on the "PCB Top" image below and another wire into 6 pin header labeled 6 below on the "PCB Bottom" image. Using a DMM connect the red wire to one of the wires you have inserted and the black dmm wire to the other wire you inserted. Read the reisitance and if a small reisitnace is read on the DMM proceed to step 2. If not re-solder and try the test again.
+
+**This second test ensures that there are no shorts going from power to ground.**
+
+**2** Remove the wires from step 1, and add a jumper wire from header 1 going to 2 on the PCB top image. Next connect the red wire from the dmm to 5 and the black wire from the dmm to 6 labeled on the 6 pin header on the "PCB Bottom" image. Ensure that the dmm is reading a small resistance move to step 3, if not attempt to solder again then test again.
+
+**This thrid test ensures that the LED and resistor are properly soldered.**
+
+**3** Remove all the wires from the pericous step, and insert 1 wire into the 6 pin header labeled 1 and insert another wire into the 6 pin header labeled 2. Using the dmm connect 1 of the cables to the first wire and the second cable to the second wire, ensure that the dmm is reading a small reisitance. If so your testing is complete and you can connect your sensor into the 3 pin header and connect your PCB to your Raspberry Pi, if not attempt to solder again then test again.
+
+After sucessfully completing these test you are ready to connect you sensor to your PCB and you PBC to you Raspberry Pi.
+
+
+**4 -This unit test will PCB connected to the Raspberry Pi & software.**
+
+Connect the 6 pin header of the PCB to the raspberry Pi, make sure the labeled 6 is connected to pin 4 of the raspberry Pi. Connect the HC-SR501 sensor to the 3 pin header.
+
+[Sensor Code](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Software/sensor.c)
+
+Download the code I provided, and using a tool such as winSCP(windows) or Cyberduck(mac), transfer this file to the Pi. compile the code using "gcc -o name name.c"
+and to run it use ./name
 
 
 ## <a name="Production_Testing">Production Testing</a>
 
-If I was making more of these. Make sure every circuit board that is produced does not have a short between power and ground. Possible make a tester ciruit to plug the PCB into.
+If I was manufaturing multiple units of these PCB's I would created a circuit tester that the PCB 6 pin header could be easily plugged into. This circuit tester would produce a light indicating there is no short between power and ground, it would also provide voltage to the LED on the PCB to ensure it correctly lights up and that all connections are as they should be.
 
-Refer to the unit tests
+
 
 
 
