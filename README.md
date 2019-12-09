@@ -89,7 +89,7 @@ Follow the numbered list until you reach "Power up".
   
 **1.2** Secondly, Insert the 330 ohm resistor so the pins come through to the top of the PCB where the green circles are, and make the joints(Attempt to eliminate vacancies).
   
-**1.3** Thridly, Insert 6 pin header so the pins come through to the top of the PCB where the pink rectangle is and make the joints(Attempt to eliminate vacancies. 
+**1.3** Thridly, Insert 6 pin header so the pins come through to the top of the PCB where the pink rectangle is and make the joints(Attempt to eliminate vacancies). 
 
 
 ![PCB_TOP](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_TOP.png?raw=true)
@@ -103,22 +103,43 @@ Follow the numbered list until you reach "Power up".
 **2.3** Lastly, Insert the 3 pin header from the top to the bottom of the PCB where the orange rectangle is and make the joints.
 
 
-
 ![PCB_BOTTOM](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_Bottom.png?raw=true)
 
 
 
 ## <a name="Power_up">Power Up</a>
 
+Before powering up the PCB and connecting it to the Raspberry Pi. you **MUST** test your PCB to ensure everything is connected and soldered correctly, as well as no shorts between power and ground. This will ensure you do not ruin you Raspberry Pi.
+
+**1**
+
+
+![PCB_Top_PTest](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_top_Ptest.png?raw=true)
+
+
+
+![PCB_BOTTOM_pTest](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_Bottom_Ptest.png?raw=true)
+
+
 
 
 
 ## <a name="Unit_Testing">Unit Testing</a>
 
+Test sensor without circuit board first
 
+then breadboard 
+
+pi without sensor
+
+remote desktop
 
 
 ## <a name="Production_Testing">Production Testing</a>
+
+If I was making more of these. Make sure every circuit board that is produced does not have a short between power and ground. Possible make a tester ciruit to plug the PCB into.
+
+Refer to the unit tests
 
 
 
