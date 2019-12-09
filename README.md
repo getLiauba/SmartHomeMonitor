@@ -57,19 +57,9 @@ Testing PCB (1 hour)  <br>
 <p>To start the mechanical assembly part of the project ,begin by getting you HC-SR501 sensor, breadboard, wire and raspberry PI B+, and follow the steps below to connect the ciruit, there is also an attached image of how the wiring should look on the raspberry Pi and the breadbaord as well as the raspberry pi pin numbers(Image provided by www.raspberry-pi-geek.com) .<br>
 </p>
 
-<p> 1. First, connect raspberry Pi pin 4 to the positive rail on your breadboard (Pin 4 provides the cirucit with 5V) and
-connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the ground pin> </br>
-  2. Secondly, connect a wire from the positive rail on the breadbaord to VCC and another wire from the negative/ ground rail to the gnd pin on the HC-SR501 sensor. </br>
-  3. Third, connect a wire from pin 8 on the Raspberry Pi to the OUT pin the the HC-SR501 sensor.
-  4. Lastly, connect a wire from pin 10 on the Raspberry Pi to a 330 ohm resistor, and conenct that resistor to and LED, and from the other pin on the LED connect that pin to ground. </br>
-</p>
-
-
-
 
 ![Breadboard](http://www.raspberry-pi-geek.com/var/rpi/storage/images/media/images/raspib-gpio/12356-1-eng-US/RasPiB-GPIO_reference.png)</br>
 </br>
-![Breadboard](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg?raw=true)<br />
 
 
 ## <a name="PCB_Soldering">PCB / Soldering</a>
@@ -111,15 +101,15 @@ Follow the numbered list until you reach "Power up".
 
 Before powering up the PCB and connecting it to the Raspberry Pi. you **MUST** test your PCB to ensure everything is connected and soldered correctly, as well as no shorts between power and ground. This will ensure you do not ruin you Raspberry Pi.
 
-This first test ensures voltage will reach the connected sensor.
+**This first test ensures voltage will reach the connected sensor.**
 
 **1** To being testing insert a wire into the 3 pin header labeled 1 on the "PCB Top" image below and another wire into 6 pin header labeled 6 below on the "PCB Bottom" image. Using a DMM connect the red wire to one of the wires you have inserted and the black dmm wire to the other wire you inserted. Read the reisitance and if a small reisitnace is read on the DMM proceed to step 2. If not re-solder and try the test again.
 
-This second test ensures that there are no shorts going from power to ground.
+**This second test ensures that there are no shorts going from power to ground.**
 
 **2** Remove the wires from step 1, and add a jumper wire from header 1 going to 2 on the PCB top image. Next connect the red wire from the dmm to 5 and the black wire from the dmm to 6 labeled on the 6 pin header on the "PCB Bottom" image. Ensure that the dmm is reading a small resistance move to step 3, if not attempt to solder again then test again.
 
-This thrid test ensures that the LED and resistor are properly soldered.
+**This thrid test ensures that the LED and resistor are properly soldered.**
 
 **3** Remove all the wires from the pericous step, and insert 1 wire into the 6 pin header labeled 1 and insert another wire into the 6 pin header labeled 2. Using the dmm connect 1 of the cables to the first wire and the second cable to the second wire, ensure that the dmm is reading a small reisitance. If so your testing is complete and you can connect your sensor into the 3 pin header and connect your PCB to your Raspberry Pi, if not attempt to solder again then test again.
 
@@ -141,18 +131,29 @@ and to run it use ./name
 ![PCB_BOTTOM_pTest](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_Bottom_Ptest.png?raw=true)
 
 
-
-
-
 ## <a name="Unit_Testing">Unit Testing</a>
 
-Test sensor without circuit board first
+The unit testing of this project can be done throughout the process of creating the project and consites of 3 unit tests.
 
-then breadboard 
+**1. -This unit test will test the sensor to ensure it works properly**
+  
+  Being this unit test by attaching a wire to VCC on the HC-SR501 sensor to a 5v power supply and the GND pin on the HC-SR501 to to ground of the 5v power supply, then connect a resistor and LED in series to the OUT pin of the sensor then to ground. Check to see if the LED lights up when motion is detected, if so the sensor is working properly.
 
-pi without sensor
+**2. -This unit test will test the Raspberry Pi in order to SSH into it**
 
-remote desktop
+By opening network preferences and finding you PI's IP address you should be able to ssh into the Pi using the command,
+"ssh pi@169.245.80.21" in your mac terminal you using putty.
+
+**3 -This unit test will test sensor connected to the raspberry Pi.**
+
+**1.** First, connect raspberry Pi pin 4 to the positive rail on your breadboard (Pin 4 provides the cirucit with 5V) and
+connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the ground pin> </br>
+**2.** Secondly, connect a wire from the positive rail on the breadbaord to VCC and another wire from the negative/ ground rail to the gnd pin on the HC-SR501 sensor. </br>
+**3.** Third, connect a wire from pin 8 on the Raspberry Pi to the OUT pin the the HC-SR501 sensor.
+**4.** Lastly, connect a wire from pin 10 on the Raspberry Pi to a 330 ohm resistor, and conenct that resistor to and LED, and from the other pin on the LED connect that pin to ground. </br>
+
+![Breadboard](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Fritzing/HC-SR501-Pi_Breadboard.jpg?raw=true)<br />
+
 
 
 ## <a name="Production_Testing">Production Testing</a>
