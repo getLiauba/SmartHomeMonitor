@@ -111,7 +111,9 @@ Follow the numbered list until you reach "Power up".
 
 Before powering up the PCB and connecting it to the Raspberry Pi. you **MUST** test your PCB to ensure everything is connected and soldered correctly, as well as no shorts between power and ground. This will ensure you do not ruin you Raspberry Pi.
 
-**1**
+**1** To being testing insert a wire into the 3 pin header labeled 1 on the PCB top image below and another wire into 6 pin header labeled 1 below. Using a DMM connect the red wire to one of the wires you ahve inserted and the black dmm wire to the other wire you inserted. Read the reisitance and if a small reisitnace is read on the DMM proceed to step 2. If not re-solder and try the test again.
+
+**2**
 
 
 **PCB Top**
