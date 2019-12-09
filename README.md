@@ -114,10 +114,11 @@ Before powering up the PCB and connecting it to the Raspberry Pi. you **MUST** t
 **1**
 
 
+**PCB Top**
 ![PCB_Top_PTest](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_top_Ptest.png?raw=true)
 
 
-
+**PCB Bottom**
 ![PCB_BOTTOM_pTest](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_Bottom_Ptest.png?raw=true)
 
 
