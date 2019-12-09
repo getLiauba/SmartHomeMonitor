@@ -80,23 +80,28 @@ connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the groun
 
 <p>If you havent yet got your PCB made you can download the files above to have it created</p> <br/>
 
-<\br>
 
-<p>To being the soldering we will start with the top of the PCB board.<br/>
-First, Begin by soldering the VIA's circled in red. To do this first strip a wire and put it through the hole and make the 5 nessesary joints. <br/>
+Follow the numbered list until you reach "Power up".
+
+**1.0** To being the soldering we will start with the top of the PCB board.
+
+**1.1** First, Begin by soldering the VIA's circled in red. To do this first strip a wire and put it through the hole and make the 5 nessesary joints and do your best to make sure there are no vacancies around the circular rings of the PCB (referring to the image below, the joints in the pink rectangle should have more solder around the metal rings of the PCB to eliminate vacancies).
   
-  Secondly, Insert the 330 ohm resistor so the pins come through to the top of the PCB where the green circles are, and make the joints. <br/>
+**1.2** Secondly, Insert the 330 ohm resistor so the pins come through to the top of the PCB where the green circles are, and make the joints(Attempt to eliminate vacancies).
   
-  Thridly, Insert 6 pin header so the pins come through to the top of the PCB where the pink rectangle is and make the joints. <br/>
-</p>
+**1.3** Thridly, Insert 6 pin header so the pins come through to the top of the PCB where the pink rectangle is and make the joints(Attempt to eliminate vacancies. 
+
 
 ![PCB_TOP](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_TOP.png?raw=true)
 
-<p>Next start to solder the bottom of the PCB. <br/>
-Frist begin by finishing soldering the 5 VIA's (now on the bottom of the PCB). <br/>
-  Secondly, Insert the LED's pins from the top going to the bottom where the purple circles are, and have the positive pin of the LED closest to the right (closest to the 3 pin header) and make the joints. <br/>
-  Lastly, Insert the 3 pin header from the top to the bottom of the PCB where the orange rectangle is and make the joints.
-</p>
+**2.0** Next start to solder the bottom of the PCB. 
+
+**2.1** Frist begin by finishing soldering the 5 VIA's (now on the bottom of the PCB). 
+
+**2.2** Secondly, Insert the LED's pins from the top going to the bottom where the purple circles are, and have the positive pin of the LED closest to the right (closest to the 3 pin header) and make the joints. 
+
+**2.3** Lastly, Insert the 3 pin header from the top to the bottom of the PCB where the orange rectangle is and make the joints.
+
 
 
 ![PCB_BOTTOM](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/PCB_Bottom.png?raw=true)
