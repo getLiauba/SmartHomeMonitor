@@ -61,7 +61,13 @@ To start the mechanical assembly part of the project you will need to download t
 
 **2** Next, use 4 M1 screw and nuts to insert though the holes and hold the Raspberry Pi into place
 
-**3** Then,
+**3** Then, join the longest sides of the case throught the rectangluar cut outs on the base of the case holding the Pi. Match the side with the cutouts that fit the I/O on the Pi.
+
+**4** Next, join 1 on the end pieces the the sides in the last step.
+
+**5** Next, add the top peices of the case, it should have a sqaure cutout. insert the rectangles throught the rectangle cutout on the top of the side pecies.
+
+**6** Lastly, attach the last end peice by pressing down on the bottom latches and pushing it into place.
 
 Begin by inserting screws through the holes in the bottom acrylic
 
