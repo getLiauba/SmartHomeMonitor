@@ -19,11 +19,11 @@ https://www.mpja.com/download/31227sc.pdf
 
 
 **Hardware Diagram**
-[Laser Cutting File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Diagram.png?raw=true)
+![Laser Cutting File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Diagram.png?raw=true)
 
 
 **System Diagram**
-[Laser Cutting File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/System.png?raw=true)
+![Laser Cutting File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/System.png?raw=true)
 
 
 
