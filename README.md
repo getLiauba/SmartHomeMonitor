@@ -18,6 +18,16 @@
 https://www.mpja.com/download/31227sc.pdf
 
 
+**Hardware Diagram**
+[Laser Cutting File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/Diagram.png?raw=true)
+
+
+**System Diagram**
+[Laser Cutting File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/System.png?raw=true)
+
+
+
+
 ## <a name="Materials/Budget">Materials/Budget</a>
 
 <p>This project will require a lot of materials and is recommended to be purchased at once so that you can have all your materials together and ready to complete the project in a weekend.
