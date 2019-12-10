@@ -99,7 +99,7 @@ Follow the numbered list until you reach "Power up".
 
 ## <a name="Power_up">Power Up</a>
 
-Before powering up the PCB and connecting it to the Raspberry Pi. you **MUST** test your PCB to ensure everything is connected and soldered correctly, as well as no shorts between power and ground. This will ensure you do not ruin you Raspberry Pi.
+Before powering up the PCB and connecting it to the Raspberry Pi. you **MUST** test your PCB to ensure everything is connected and soldered correctly, as well as no shorts between power and ground. This will ensure you do not ruin you Raspberry Pi. Also you must make sure your raspberry pi has an OS setup on it (ideally Raspian) if you need to do this still follow this tutorial [RaspberryPi Setup](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 
 **This first test ensures voltage will reach the connected sensor.**
 
@@ -183,7 +183,7 @@ and to run it use ./name
 
 ## <a name="Production_Testing">Production Testing</a>
 
-If I was manufaturing multiple units of these PCB's I would created a circuit tester that the PCB 6 pin header could be easily plugged into. This circuit tester would produce a light indicating there is no short between power and ground, it would also provide voltage to the LED on the PCB to ensure it correctly lights up and that all connections are as they should be.
+If I was manufaturing multiple units of these PCB's I would created a circuit tester that the PCB 6 pin header could be easily plugged into. This circuit tester would produce a light indicating there is no short between power and ground, it would also provide voltage to the LED on the PCB to ensure it correctly lights up and that all connections are as they should be. There is no need in testing the Raspberry Pi or the sensor becuase it should have been done by the company that we purchased the pats from.
 
 
 
