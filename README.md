@@ -54,12 +54,8 @@ Testing PCB (1 hour)  <br>
 
 ## <a name="Mechanical_Assembly">Mechanical Assembly</a>
 
-<p>To start the mechanical assembly part of the project ,begin by getting you HC-SR501 sensor, breadboard, wire and raspberry PI B+, and follow the steps below to connect the ciruit, there is also an attached image of how the wiring should look on the raspberry Pi and the breadbaord as well as the raspberry pi pin numbers(Image provided by www.raspberry-pi-geek.com) .<br>
-</p>
+<p>To start the mechanical assembly part of the project
 
-
-![Breadboard](http://www.raspberry-pi-geek.com/var/rpi/storage/images/media/images/raspib-gpio/12356-1-eng-US/RasPiB-GPIO_reference.png)</br>
-</br>
 
 
 ## <a name="PCB_Soldering">PCB / Soldering</a>
@@ -145,6 +141,10 @@ By opening network preferences and finding you PI's IP address you should be abl
 "ssh pi@169.245.80.21" in your mac terminal you using putty.
 
 **3 -This unit test will test sensor connected to the raspberry Pi.**
+
+Begin by getting you HC-SR501 sensor, breadboard, wire and raspberry PI B+, and follow the steps below to connect the ciruit, there is also an attached link of the raspberry Pi pins for reference and the breadbaord as well.
+
+[RaspberryPi Pins](https://pinout.xyz)
 
 **3.1** First, connect raspberry Pi pin 4 to the positive rail on your breadboard (Pin 4 provides the cirucit with 5V) and
 connect Pin 6 to the negative/ground rail on your breadbaord <Pin 6 is the ground pin> </br>
