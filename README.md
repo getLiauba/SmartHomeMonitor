@@ -24,38 +24,49 @@ https://www.mpja.com/download/31227sc.pdf
   
 RaspberryPi (These instructions will be using the B+ modle although new versions should work as well) <br>
 HC-SR501 $10 (Reccomended to get a multi-pack the first one I used was broken)<br>
-Solder<br>
-Breadboard <br>
-LED<br>
-330 Ohm resistor <br>
-Jumpper cables <br>
-Safty goggles <br>
-Soldering Iron <br>
-USB to Ethernet adapter (This may not be needed if your computer/ Laptop as a Ethernet port) <br> 
-Ethernet cable <br>
-3 Pin header  <br>
-6 Pin header  <br>
-
+Solder $15<br>
+Breadboard $13<br>
+LED Multipack $5<br>
+330 Ohm resistor Mylitpack $5<br>
+USB to Ethernet adapter $16(This may not be needed if your computer/ Laptop as a Ethernet port) <br> 
+Ethernet cable $12<br>
+3 Pin header  34 Cents<br>
+6 Pin header  MultiPack $10.99<br>
 </p>
 
-
+**Other Tools**
+Safty goggles $11<br>
+Soldering Iron <br>
 
 ## <a name="Time_Commitment">Time Commitment</a>
 
-<p> Your total time commitment for this project should be no more than a weekend approximentally(X hours) assuming you have all your materials and tools purchased and shiped  <br> 
+<p> Your total time commitment for this project should be no more than a weekend approximentally(6 hours) less if you have all your materials and tools purchased and shiped  <br> 
 
+Ordering Parts (2 hours)
 Mechanical Assembly (1 hour)  <br>
-Setting up raspberry Pi (1 hour)  <br>
+Setting up raspberry Pi (45 minutes)  <br>
 Breadboarding (1 hour)  <br>
 Soldering PCB (1.5 hours)  <br>
-Testing PCB (1 hour)  <br>
+Unit Tests (1 hour)  <br>
 </p>
 
 
 ## <a name="Mechanical_Assembly">Mechanical Assembly</a>
 
-<p>To start the mechanical assembly part of the project
+To start the mechanical assembly part of the project you will need to download the file below and have it laser cut.
+[Laser Cutting File](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Mechanical/RaspberryPiEnclosure.cdr)
 
+
+**1** Start by alinging the arcylic holes with the Holes in the raspberry Pi.
+
+**2** Next, use 4 M1 screw and nuts to insert though the holes and hold the Raspberry Pi into place
+
+**3** Then,
+
+Begin by inserting screws through the holes in the bottom acrylic
+
+
+![PCB Files](https://github.com/getLiauba/SmartHomeMonitor/blob/master/Images/enclosure.jpg?raw=true)
 
 
 ## <a name="PCB_Soldering">PCB / Soldering</a>
